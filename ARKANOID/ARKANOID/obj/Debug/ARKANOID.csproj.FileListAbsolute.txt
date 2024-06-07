@@ -1,0 +1,177 @@
+C:\Users\User\Desktop\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.csprojAssemblyReference.cache
+C:\Users\User\Desktop\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\GAME.g.cs
+C:\Users\User\Desktop\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\PAGE_MENU.g.cs
+C:\Users\User\Desktop\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\App.g.cs
+C:\Users\User\Desktop\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID_MarkupCompile.cache
+C:\Users\User\Desktop\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID_MarkupCompile.lref
+C:\Users\User\Desktop\КУРСОВАЯ\ARKANOID\ARKANOID\bin\Debug\ARKANOID.exe.config
+C:\Users\User\Desktop\КУРСОВАЯ\ARKANOID\ARKANOID\bin\Debug\ARKANOID.exe
+C:\Users\User\Desktop\КУРСОВАЯ\ARKANOID\ARKANOID\bin\Debug\ARKANOID.pdb
+C:\Users\User\Desktop\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\GAME.baml
+C:\Users\User\Desktop\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\PAGE_MENU.baml
+C:\Users\User\Desktop\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.g.resources
+C:\Users\User\Desktop\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.Properties.Resources.resources
+C:\Users\User\Desktop\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.csproj.GenerateResource.cache
+C:\Users\User\Desktop\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.exe
+C:\Users\User\Desktop\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.pdb
+H:\КУРСОВАЯ\ARKANOID\ARKANOID\bin\Debug\ARKANOID.exe.config
+H:\КУРСОВАЯ\ARKANOID\ARKANOID\bin\Debug\ARKANOID.exe
+H:\КУРСОВАЯ\ARKANOID\ARKANOID\bin\Debug\ARKANOID.pdb
+H:\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.csprojAssemblyReference.cache
+H:\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\GAME.g.cs
+H:\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\MainWindow.g.cs
+H:\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\PAGE_MENU.g.cs
+H:\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\SETTING_PAGE.g.cs
+H:\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\App.g.cs
+H:\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID_MarkupCompile.cache
+H:\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID_MarkupCompile.lref
+H:\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\GAME.baml
+H:\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\MainWindow.baml
+H:\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\PAGE_MENU.baml
+H:\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\SETTING_PAGE.baml
+H:\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.g.resources
+H:\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.Properties.Resources.resources
+H:\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.csproj.GenerateResource.cache
+H:\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.csproj.CoreCompileInputs.cache
+H:\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.exe
+H:\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.pdb
+F:\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.csprojAssemblyReference.cache
+F:\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\GAME.g.cs
+F:\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\MainWindow.g.cs
+F:\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\PAGE_MENU.g.cs
+F:\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\SETTING_PAGE.g.cs
+F:\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\App.g.cs
+F:\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID_MarkupCompile.cache
+F:\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID_MarkupCompile.lref
+F:\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.exe
+F:\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.pdb
+F:\КУРСОВАЯ\ARKANOID\ARKANOID\bin\Debug\ARKANOID.exe.config
+F:\КУРСОВАЯ\ARKANOID\ARKANOID\bin\Debug\ARKANOID.exe
+F:\КУРСОВАЯ\ARKANOID\ARKANOID\bin\Debug\ARKANOID.pdb
+F:\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\GAME.baml
+F:\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\MainWindow.baml
+F:\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\PAGE_MENU.baml
+F:\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\SETTING_PAGE.baml
+F:\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.g.resources
+F:\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.Properties.Resources.resources
+F:\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.csproj.GenerateResource.cache
+F:\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.csproj.CoreCompileInputs.cache
+H:\Компьютерная графика\КУРСОВАЯ\ARKANOID\ARKANOID\bin\Debug\ARKANOID.exe.config
+H:\Компьютерная графика\КУРСОВАЯ\ARKANOID\ARKANOID\bin\Debug\ARKANOID.exe
+H:\Компьютерная графика\КУРСОВАЯ\ARKANOID\ARKANOID\bin\Debug\ARKANOID.pdb
+H:\Компьютерная графика\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.csprojAssemblyReference.cache
+H:\Компьютерная графика\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\GAME.g.cs
+H:\Компьютерная графика\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\MainWindow.g.cs
+H:\Компьютерная графика\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\PAGE_MENU.g.cs
+H:\Компьютерная графика\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\SETTING_PAGE.g.cs
+H:\Компьютерная графика\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\App.g.cs
+H:\Компьютерная графика\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID_MarkupCompile.cache
+H:\Компьютерная графика\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID_MarkupCompile.lref
+H:\Компьютерная графика\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\GAME.baml
+H:\Компьютерная графика\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\MainWindow.baml
+H:\Компьютерная графика\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\PAGE_MENU.baml
+H:\Компьютерная графика\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\SETTING_PAGE.baml
+H:\Компьютерная графика\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.g.resources
+H:\Компьютерная графика\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.Properties.Resources.resources
+H:\Компьютерная графика\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.csproj.GenerateResource.cache
+H:\Компьютерная графика\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.csproj.CoreCompileInputs.cache
+H:\Компьютерная графика\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.exe
+H:\Компьютерная графика\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.pdb
+F:\Компьютерная графика\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.csprojAssemblyReference.cache
+F:\Компьютерная графика\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\GAME.g.cs
+F:\Компьютерная графика\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\MainWindow.g.cs
+F:\Компьютерная графика\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\PAGE_MENU.g.cs
+F:\Компьютерная графика\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\App.g.cs
+F:\Компьютерная графика\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID_MarkupCompile.cache
+F:\Компьютерная графика\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID_MarkupCompile.lref
+F:\Компьютерная графика\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.exe
+F:\Компьютерная графика\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.pdb
+F:\Компьютерная графика\КУРСОВАЯ\ARKANOID\ARKANOID\bin\Debug\ARKANOID.exe.config
+F:\Компьютерная графика\КУРСОВАЯ\ARKANOID\ARKANOID\bin\Debug\ARKANOID.exe
+F:\Компьютерная графика\КУРСОВАЯ\ARKANOID\ARKANOID\bin\Debug\ARKANOID.pdb
+F:\Компьютерная графика\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\GAME.baml
+F:\Компьютерная графика\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\MainWindow.baml
+F:\Компьютерная графика\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\PAGE_MENU.baml
+F:\Компьютерная графика\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.g.resources
+F:\Компьютерная графика\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.Properties.Resources.resources
+F:\Компьютерная графика\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.csproj.GenerateResource.cache
+F:\Компьютерная графика\КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\bin\Debug\ARKANOID.exe.config
+C:\Users\User\Desktop\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\bin\Debug\ARKANOID.exe
+C:\Users\User\Desktop\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\bin\Debug\ARKANOID.pdb
+C:\Users\User\Desktop\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\GAME.g.cs
+C:\Users\User\Desktop\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\PAGE_MENU.g.cs
+C:\Users\User\Desktop\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\App.g.cs
+C:\Users\User\Desktop\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID_MarkupCompile.cache
+C:\Users\User\Desktop\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID_MarkupCompile.lref
+C:\Users\User\Desktop\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\GAME.baml
+C:\Users\User\Desktop\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\PAGE_MENU.baml
+C:\Users\User\Desktop\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.g.resources
+C:\Users\User\Desktop\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.Properties.Resources.resources
+C:\Users\User\Desktop\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.exe
+C:\Users\User\Desktop\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.pdb
+H:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\bin\Debug\ARKANOID.exe.config
+H:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\bin\Debug\ARKANOID.exe
+H:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\bin\Debug\ARKANOID.pdb
+H:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.csprojAssemblyReference.cache
+H:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\GAME.g.cs
+H:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\MainWindow.g.cs
+H:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\PAGE_MENU.g.cs
+H:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\App.g.cs
+H:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID_MarkupCompile.cache
+H:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID_MarkupCompile.lref
+H:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\GAME.baml
+H:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\MainWindow.baml
+H:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\PAGE_MENU.baml
+H:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.g.resources
+H:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.Properties.Resources.resources
+H:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.csproj.GenerateResource.cache
+H:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.csproj.CoreCompileInputs.cache
+H:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.exe
+H:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.pdb
+G:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\bin\Debug\ARKANOID.exe.config
+G:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\bin\Debug\ARKANOID.exe
+G:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\bin\Debug\ARKANOID.pdb
+G:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.csprojAssemblyReference.cache
+G:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\GAME.g.cs
+G:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\MainWindow.g.cs
+G:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\PAGE_MENU.g.cs
+G:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\App.g.cs
+G:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID_MarkupCompile.cache
+G:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID_MarkupCompile.lref
+G:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\GAME.baml
+G:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\MainWindow.baml
+G:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\PAGE_MENU.baml
+G:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.g.resources
+G:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.Properties.Resources.resources
+G:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.csproj.GenerateResource.cache
+G:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.csproj.CoreCompileInputs.cache
+G:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.exe
+G:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.pdb
+F:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\bin\Debug\ARKANOID.exe.config
+F:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\bin\Debug\ARKANOID.exe
+F:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\bin\Debug\ARKANOID.pdb
+F:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.csprojAssemblyReference.cache
+F:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\MainWindow.g.cs
+F:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\App.g.cs
+F:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID_MarkupCompile.cache
+F:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID_MarkupCompile.lref
+F:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\MainWindow.baml
+F:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.g.resources
+F:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.Properties.Resources.resources
+F:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.csproj.GenerateResource.cache
+F:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.csproj.CoreCompileInputs.cache
+F:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.exe
+F:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\ARKANOID.pdb
+F:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\PageGame.g.cs
+F:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\PageMenu.g.cs
+F:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\PageGame.baml
+F:\ВП_КУРСОВАЯ\ARKANOID\ARKANOID\obj\Debug\PageMenu.baml
