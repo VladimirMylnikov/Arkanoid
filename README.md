@@ -19,23 +19,19 @@
 
 ### Скриншоты
 
-![Главное меню](![Снимок экрана (23)](https://github.com/user-attachments/assets/755ff45a-30ca-49c6-b14b-e9a0485abe13)
-)
+![Снимок экрана (23)](https://github.com/user-attachments/assets/755ff45a-30ca-49c6-b14b-e9a0485abe13)
 *Главное меню игры Арканоид*
 
-![Игровой процесс](![Снимок экрана (25)](https://github.com/user-attachments/assets/eba950cb-f219-4b2e-8c15-00a0c75e828b)
-)
+![Снимок экрана (25)](https://github.com/user-attachments/assets/eba950cb-f219-4b2e-8c15-00a0c75e828b)
 *Скриншот игрового процесса*
 
-![Победа]()
+![победа](https://github.com/user-attachments/assets/590c18cd-ffb5-494e-bd63-7567b57e3a69)
 *Скриншот победы*
 
-![Победа](![победа](https://github.com/user-attachments/assets/590c18cd-ffb5-494e-bd63-7567b57e3a69)
-)
+![Снимок экрана (28)](https://github.com/user-attachments/assets/cf51a911-e304-4658-8bdc-e23f3379a5f8)
 *Скриншот проигрыша*
 
-![Пауза](![Снимок экрана (26)](https://github.com/user-attachments/assets/dead1de1-86f4-45e9-84c3-13d694f5f805)
-)
+![Снимок экрана (26)](https://github.com/user-attachments/assets/dead1de1-86f4-45e9-84c3-13d694f5f805)
 *Скриншот игры на паузе*
 
 ## Управление
